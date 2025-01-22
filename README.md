@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ansh2609
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java as a first year student at Toronto metropolitan university.
+- 🌱 I’m currently learning Algorithms as a third year student at Toronto metropolitan university.
 - 💞️ I’m looking to work for startup comapanies to learn and boost my knowledge as much as I can.
 - 📫 How to reach me email- anshsapra@gmail.com
 
