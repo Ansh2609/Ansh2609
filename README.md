@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ansh2609
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning NLP and I'm intrested in further learning AI.
-- 💞️ I’m looking to work as an intern to learn and boost my knowledge as much as I can.
+- 🌱 I’m currently learning Cyber Security and I'm intrested in further learning AI.
+- 💞️ I’m looking to work as data analyst and learn more about this field.
 - 📫 How to reach me email- anshsapra@gmail.com
 
 <!---
